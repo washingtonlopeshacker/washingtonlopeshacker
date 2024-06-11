@@ -24,7 +24,7 @@
   <img align="center" alt="CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
  <img align="center" alt="CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
  <img align="center" alt="CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
- <img align="center" alt="CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+ <img align="center" alt="CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
  <img align="center" alt="CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/next.js-original.svg" />
  <img align="center" alt="CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/tailwindcss-original.svg" />
 </div>
